@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [sprial404.net](https://github.com/Sprial404/sprial404.net/).
 - 🌱 I’m currently learning **Everything**, especially *Something*.
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on making games.
 - 🤔 I’m looking for help with Low-level abstractions, and Handmade code.
 - 💬 Ask me about [Rubik's Cubes](https://en.wikipedia.org/wiki/Rubik%27s_Cube).
 - 😄 Pronouns: He, Him, His
